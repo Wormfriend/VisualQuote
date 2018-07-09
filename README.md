@@ -15,4 +15,7 @@ Just install via pip3:
 - BeautifulSoup
 - Screeninfo
 
+# Result
+![Alt img](https://github.com/Wormfriend/VisualQuote/blob/master/VisualQuoteWallpaper.png "VisualQuote test-wallpaper")
+
 
