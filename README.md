@@ -9,3 +9,10 @@ Just set VisualQuote.py to be run at startup for automatization and dynamic wall
 PS: Please don't be too harsh on my coding, I only spent a couple of hours and it's by far not perfect. But I really liked the outcome.
 
 PSS: If you have ideas for improving the project, please feel free to join or comment!
+
+# Requirements
+Just install via pip3:
+- BeautifulSoup
+- Screeninfo
+
+
