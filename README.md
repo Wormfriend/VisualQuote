@@ -6,6 +6,6 @@ This little Python3-library provides quotes from https://www.brainyquote.com/ an
 
 Just set VisualQuote.py to be run at startup for automatization and dynamic wallpapers.
 
-PS: Please don't be to harsh on my coding, I only spent a couple of hours and it's by far not perfect. But I really liked the outcome.
+PS: Please don't be too harsh on my coding, I only spent a couple of hours and it's by far not perfect. But I really liked the outcome.
 
 PSS: If you have ideas for improving the project, please feel free to join or comment!
