@@ -15,6 +15,9 @@ Just install via pip3:
 - BeautifulSoup
 - Screeninfo
 
+# Improvement
+Implement politican lies from http://www.politifact.com/.
+
 # Result
 ![Alt img](https://github.com/Wormfriend/VisualQuote/blob/master/VisualQuoteWallpaper.png "VisualQuote test-wallpaper")
 
